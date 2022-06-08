@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "miaonorepo-yarn",
+  "workspaces": [
+    "packages/*",
+    "node"
+  ]
+}
