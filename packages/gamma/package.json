@@ -1,0 +1,19 @@
+{
+  "name": "@miaonorepo/gamma",
+  "version": "1.0.0",
+  "description": "miao gamma",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xzhou-snyk/miaonorepo-yarn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xzhou-snyk/miaonorepo-yarn/issues"
+  },
+  "dependencies": {
+    "form-data": "^4.0.0"
+  }
+}

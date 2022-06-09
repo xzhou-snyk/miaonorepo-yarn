@@ -1,9 +1,0 @@
-{
-  "name": "@miaonorepo/miao",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "lodash": "3.10.1"
-  }
-}
