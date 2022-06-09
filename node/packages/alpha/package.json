@@ -8,5 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@miaonorepo/gamma": "1.0.0",
+    "@miaonorepo/non-existing-package": "1.0.0"
+  }
 }
